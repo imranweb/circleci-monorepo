@@ -6,5 +6,5 @@ import (
 
 func main() {
 
-	log.Info("Hello world!")
+	log.Info("Hello world!2")
 }
